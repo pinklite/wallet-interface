@@ -2,9 +2,9 @@ package wallet
 
 import (
 	"bytes"
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/muecoin/btcd/btcec"
+	"github.com/muecoin/btcd/chaincfg/chainhash"
+	"github.com/muecoin/btcd/wire"
 	"time"
 )
 
