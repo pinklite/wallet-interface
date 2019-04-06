@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	btc "github.com/btcsuite/btcutil"
-	hd "github.com/btcsuite/btcutil/hdkeychain"
+	"github.com/muecoin/btcd/chaincfg/chainhash"
+	btc "github.com/muecoin/btcutil"
+	hd "github.com/muecoin/btcutil/hdkeychain"
 )
 
 // Wallet interface is used by openbazaar-go for both normal wallet operation (sending
